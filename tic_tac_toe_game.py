@@ -69,6 +69,8 @@ def board_full(user_moves, comp_moves):
 
 
 # main script start from here
+import random as rnd
+
 user_moves = []
 comp_moves = []
 
